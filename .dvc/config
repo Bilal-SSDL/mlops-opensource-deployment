@@ -1,0 +1,4 @@
+[core]
+    remote = mlops-dvc-remote
+['remote "mlops-dvc-remote"']
+    url = s3://s3-mlops-bucket-dvc/config
